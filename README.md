@@ -9,3 +9,4 @@ My preparation and research for Google Summer of Code 2027.
 - Skills Gap — Technologies and concepts I need to learn
 - Contributions — My open-source contributions
 - Notes — General learning and research notes
+# gsoc-2027-prep
